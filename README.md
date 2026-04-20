@@ -174,7 +174,7 @@ What I value in collaboration: **solving real problems · clean architecture · 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-your--email%40example.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=333)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-your--email%40example.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=333)](mailto:aljabid444@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=333)](https://linkedin.com)
 
 </div>
