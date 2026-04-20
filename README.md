@@ -112,6 +112,22 @@ I am open to collaborating with individuals who are serious about building real 
 If you are working on something in this space and value structured, principled collaboration — feel free to reach out.
 
 ---
+### Hi there 👋, AL JABID
+
+ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aljabid)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aljabid)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aljabid&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/aljabid)  
+
+
 
 ##  Contact
 
