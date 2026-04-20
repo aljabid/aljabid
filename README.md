@@ -6,8 +6,11 @@
 
 *Al-Farabi Kazakh National University — Almaty, Kazakhstan*
 
-[![Email](https://img.shields.io/badge/Email-aljabid444%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aljabid444@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aljabid-181717?style=flat&logo=github&logoColor=white)](https://github.com/aljabid)
+[![Email](https://img.shields.io/badge/Email-aljabid444%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aljabid444@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-aljabid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aljabid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aljabid)
+[![Twitter](https://img.shields.io/badge/Twitter-@aljabid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aljabid)
+
 
 </div>
 
@@ -95,10 +98,15 @@ I work by the following principles:
 
 I am open to collaborating with individuals who are serious about building real things in cybersecurity. Areas of interest include:
 
+<<<<<<< HEAD
 - Security tool development and automation
 - AI/ML applications in threat detection and defensive systems
 - CTF challenges and applied security research
 - Open-source contributions in security engineering
+=======
+[![Email](https://img.shields.io/badge/Email-your--email%40example.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=333)](mailto:aljabid444@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=333)](https://linkedin.com)
+>>>>>>> 8b8e4620005eaf379037e22b711187db6ce18064
 
 If you are working on something in this space and value structured, principled collaboration — feel free to reach out.
 
