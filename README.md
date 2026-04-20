@@ -98,12 +98,13 @@ I work by the following principles:
 
 I am open to collaborating with individuals who are serious about building real things in cybersecurity. Areas of interest include:
 
-<<<<<<< HEAD
+
 - Security tool development and automation
 - AI/ML applications in threat detection and defensive systems
 - CTF challenges and applied security research
 - Open-source contributions in security engineering
-=======
+
+
 [![Email](https://img.shields.io/badge/Email-your--email%40example.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=333)](mailto:aljabid444@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=333)](https://linkedin.com)
 >>>>>>> 8b8e4620005eaf379037e22b711187db6ce18064
