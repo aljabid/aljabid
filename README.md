@@ -107,7 +107,7 @@ I am open to collaborating with individuals who are serious about building real 
 
 [![Email](https://img.shields.io/badge/Email-your--email%40example.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=333)](mailto:aljabid444@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=333)](https://linkedin.com)
->>>>>>> 8b8e4620005eaf379037e22b711187db6ce18064
+
 
 If you are working on something in this space and value structured, principled collaboration — feel free to reach out.
 
