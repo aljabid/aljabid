@@ -26,7 +26,7 @@ I believe effective security is not reactive — it is built into the design of 
 
 ---
 
-## 🎯 Long-Term Vision
+##  Long-Term Vision
 
 My goal over the next decade is to grow into a **senior-level security engineer** capable of contributing to large-scale, critical infrastructure security. This means:
 
@@ -39,20 +39,20 @@ This GitHub is an evolving record of that journey — not a finished portfolio, 
 
 ---
 
-## 🧠 Core Interests
+##  Core Interests
 
 | Domain | Focus |
 |---|---|
-| 🔐 Network Security & Pentesting | Infrastructure analysis, attack surface mapping, protocol security |
-| 🧬 Applied Cryptography | Secure communication, algorithm analysis, real-world implementation weaknesses |
-| 🤖 Machine Learning in Security | Intrusion detection, malware classification, anomaly detection |
-| 🌐 Web & Application Security | OWASP vulnerabilities, HTTP security posture, misconfiguration analysis |
-| 🛠️ Security Tooling & Automation | Modular tool engineering, CI/CD integration, scalable scanner design |
-| 🧩 Secure System Design | Architecture review, threat modeling, hardening principles |
+|  Network Security & Pentesting | Infrastructure analysis, attack surface mapping, protocol security |
+|  Applied Cryptography | Secure communication, algorithm analysis, real-world implementation weaknesses |
+|  Machine Learning in Security | Intrusion detection, malware classification, anomaly detection |
+|  Web & Application Security | OWASP vulnerabilities, HTTP security posture, misconfiguration analysis |
+|  Security Tooling & Automation | Modular tool engineering, CI/CD integration, scalable scanner design |
+|  Secure System Design | Architecture review, threat modeling, hardening principles |
 
 ---
 
-## 📚 Current Focus
+##  Current Focus
 
 - Strengthening fundamentals across **operating systems, networking, and cryptographic systems**
 - Expanding practical capabilities in **security analysis, Python-based tooling, and threat modeling**
@@ -62,7 +62,7 @@ This GitHub is an evolving record of that journey — not a finished portfolio, 
 
 ---
 
-## 🧭 Engineering Philosophy
+##  Engineering Philosophy
 
 > *"Effective cybersecurity is not only about detecting threats — it is about designing systems where threats struggle to exist."*
 
@@ -75,9 +75,9 @@ I work by the following principles:
 
 ---
 
-## 🗂️ Projects
+##  Projects
 
-### ✅ Completed
+###  Completed
 
 | Project | Description |
 |---|---|
@@ -85,7 +85,7 @@ I work by the following principles:
 
 ---
 
-### 🔄 In Progress
+###  In Progress
 
 | Project | Description |
 |---|---|
@@ -94,7 +94,7 @@ I work by the following principles:
 
 ---
 
-## 🤝 Collaboration
+##  Collaboration
 
 I am open to collaborating with individuals who are serious about building real things in cybersecurity. Areas of interest include:
 
@@ -113,7 +113,7 @@ If you are working on something in this space and value structured, principled c
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - **Email:** [aljabid444@gmail.com](mailto:aljabid444@gmail.com)
 - **GitHub:** [github.com/aljabid](https://github.com/aljabid)
