@@ -20,7 +20,7 @@
 
 I am an Information Security student with a clear and deliberate focus: to develop the technical depth, engineering discipline, and systems-level thinking required to operate as a competent cybersecurity professional at an international level.
 
-My approach to security is grounded in **first-principles understanding** — I prioritize knowing *why* systems fail over memorizing what tools to run. I build from scratch, study real-world attack patterns, and work to understand the architecture behind both offensive techniques and defensive countermeasures.
+My approach to security is grounded in first-principles understanding I prioritize knowing why systems fail over memorizing what tools to run. I build from scratch, study real-world attack patterns, and work to understand the architecture behind both offensive techniques and defensive countermeasures.
 
 I believe effective security is not reactive — it is built into the design of systems from the ground up.
 
@@ -28,14 +28,14 @@ I believe effective security is not reactive — it is built into the design of 
 
 ##  Long-Term Vision
 
-My goal over the next decade is to grow into a **senior-level security engineer** capable of contributing to large-scale, critical infrastructure security. This means:
+My goal over the next decade is to grow into a senior-level security engineer capable of contributing to large-scale, critical infrastructure security. This means:
 
-- Building deep, durable expertise in **secure system architecture and defensive engineering**
-- Contributing to **open-source security tooling and applied research**
-- Developing capabilities in **advanced threat modeling, detection systems, and resilient design**
-- Operating at the intersection of **offensive knowledge and defensive application**
+ Building deep, durable expertise in **secure system architecture and defensive engineering**
+ Contributing to **open-source security tooling and applied research**
+ Developing capabilities in **advanced threat modeling, detection systems, and resilient design**
+ Operating at the intersection of **offensive knowledge and defensive application**
 
-This GitHub is an evolving record of that journey — not a finished portfolio, but a disciplined body of work in progress.
+This GitHub is an evolving record of that journey not a finished portfolio, but a disciplined body of work in progress.
 
 ---
 
