@@ -22,7 +22,7 @@ I am an Information Security student with a clear and deliberate focus: to devel
 
 My approach to security is grounded in first-principles understanding I prioritize knowing why systems fail over memorizing what tools to run. I build from scratch, study real-world attack patterns, and work to understand the architecture behind both offensive techniques and defensive countermeasures.
 
-I believe effective security is not reactive — it is built into the design of systems from the ground up.
+I believe effective security is not reactive it is built into the design of systems from the ground up.
 
 ---
 
